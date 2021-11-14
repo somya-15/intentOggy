@@ -15,5 +15,6 @@ class NameDisplay : AppCompatActivity() {
 
         characterName = findViewById(R.id.textView2)
         characterName.text = "Oggy"
+        //dynamic seeting of string
     }
 }
